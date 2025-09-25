@@ -1,0 +1,7 @@
+[
+  {"id": 1, "name": "Nike Shoes", "category": "Shoes", "popularity": 90},
+  {"id": 2, "name": "Adidas Socks", "category": "Shoes", "popularity": 70},
+  {"id": 3, "name": "Sports Cap", "category": "Accessories", "popularity": 80},
+  {"id": 4, "name": "Puma Sneakers", "category": "Shoes", "popularity": 85},
+  {"id": 5, "name": "Backpack", "category": "Accessories", "popularity": 95}
+]
